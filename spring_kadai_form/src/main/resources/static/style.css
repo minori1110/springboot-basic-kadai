@@ -1,0 +1,13 @@
+  .form-row {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 10px;
+  }
+
+  .form-row label {
+    width: 130px; 
+    text-align: left;
+  }
+
+ 
+  
